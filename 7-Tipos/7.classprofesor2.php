@@ -38,6 +38,7 @@
     . ' ' .'e imparte la materia de' . ' ' . $p2->getMateria() .'.';
     echo '<br>El nombre del profesor es ' . $p3->getNombre(). ' '
     . ' ' .'e imparte la materia de' . ' ' . $p3->getMateria() .'.';
-    echo '<br>';
+    echo "<br>{$p1->getNombre()}, ". $p2->getNombre() . " y {$p3->getNombre()} son tres profesores de las asignaturas {$p1->getMateria()}, {$p2->getMateria()} y {$p3->getMateria()} respectivamente.";
+    //Obtendremos valores con métodos GETTERS (Funciones OUTPUTS)
 
 ?>
