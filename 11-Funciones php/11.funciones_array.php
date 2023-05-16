@@ -12,7 +12,7 @@ $semana = array(
  	'Jueves', 'Viernes', 'Sabado', 'Domingo'
 );
 
-// $ultimo_dia = array_pop($semana); //Extraer el Ãºltimo valor del array en $semana y guardandolo en la variable $ultimo_dia
+// $ultimo_dia = array_pop($semana); //Extraer el último valor del array en $semana y guardandolo en la variable $ultimo_dia
 // foreach ($semana as $dia) {
 // 	echo $dia . '<br />';
 // }
