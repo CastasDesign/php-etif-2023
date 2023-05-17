@@ -12,8 +12,8 @@ Class Impressora {
             echo 'Es pot imprimir en '. $tamany;
         }
     }
-
 }
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,7 +21,7 @@ Class Impressora {
 	<title>Impresió del document</title>
 </head>
 <body>
-	<h1>Titular del document</h1>
+	<h1>Imprimir.php</h1>
 	 <!-- Codi PHP-->
 </body>
 </html>
