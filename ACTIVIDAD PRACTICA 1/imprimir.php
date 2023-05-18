@@ -17,6 +17,7 @@ Class Impressora {
     }
 }
 
+
 $miImpresora = new Impressora();
 $miImpresora->imprimeix($miImpresora->tinta, $miImpresora->paper, $miImpresora->tamany);
 
