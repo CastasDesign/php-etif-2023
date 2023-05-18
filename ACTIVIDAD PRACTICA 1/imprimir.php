@@ -63,5 +63,7 @@ Se ha añadido el objeto $miImpresora de la clase Impressora y se ha llamado al 
 Se ha corregido la concatenación del mensaje en el método imprimeix() al añadir el $this->color para acceder al atributo $color de la clase Impressora.-->
 
 <!-- ACTIVIDAD PRACTICA 1 EJERCICIO 5 B
-La diferencia principal entre public, private y protected es que loos atributos public son accesibles desde cualquier lugar, los atributos private solo son accesibles dentro de la misma clase y los atributos protected son accesibles dentro de la clase y también desde las clases hijas que heredan de ella, pero al igual que los private, no desde fuera de la clase u subclases (hijas).
+La diferencia principal entre public, private y protected es que loos atributos public son accesibles desde cualquier lugar, los atributos private solo 
+son accesibles dentro de la misma clase y los atributos protected son accesibles dentro de la clase y también desde las clases hijas que heredan de ella, 
+pero al igual que los private, no desde fuera de la clase u subclases (hijas).
 -->
