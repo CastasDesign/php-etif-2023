@@ -66,5 +66,5 @@ Se ha corregido la concatenación del mensaje en el método imprimeix() al añad
 <!-- ACTIVIDAD PRACTICA 1 EJERCICIO 5 B
 La diferencia principal entre public, private y protected es que loos atributos public son accesibles desde cualquier lugar, los atributos private solo 
 son accesibles dentro de la misma clase y los atributos protected son accesibles dentro de la clase y también desde las clases hijas que heredan de ella, 
-pero al igual que los private, no desde fuera de la clase u subclases (hijas).
+pero al igual que los private, no desde fuera de la clase y subclases (hijas).
 -->
